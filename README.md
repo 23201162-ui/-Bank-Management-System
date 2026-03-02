@@ -1,1 +1,2 @@
 # -Bank-Management-System
+A basic Bank Management System developed in Java that supports account creation, secure login authentication, deposits, withdrawals, transfers, loan requests, and interest calculation with file handling for data persistence. It demonstrates practical implementation of core OOP concepts such as inheritance, polymorphism, and exception handling in a real-world banking scenario.
